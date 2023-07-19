@@ -1,0 +1,1 @@
+g++ -o exp *.cc --std=c++17 -libverbs -pthread
